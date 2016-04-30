@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/wo-ist-markt/wo-ist-markt.github.io.svg?branch=master)](https://travis-ci.org/wo-ist-markt/wo-ist-markt.github.io)
 
-# A map of farmer markets
+# A map of farmer markets wat
 
 A small visualization of the weekly markets in different cities. Available at: http://wo-ist-markt.de
 
